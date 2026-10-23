@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195">
+<rect x="0.5" y="0.5" rx="10" width="99%" height="99%" fill="#0d1117"/>
+<text x="25" y="35" font-family='Segoe UI, Ubuntu, sans-serif' font-size="18" font-weight="600" fill="#58a6ff">Estatísticas do Tarcísio</text>
+<text x="25" y="68" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13.5" font-weight="600" fill="#c9d1d9" xml:space="preserve">Commits (todos os repositórios)</text>
+<text x="440" y="68" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13.5" font-weight="700" fill="#c9d1d9" text-anchor="end">505</text>
+<text x="25" y="90" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13.5" font-weight="400" fill="#8b949e" xml:space="preserve">  · feitos direto por mim</text>
+<text x="440" y="90" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13.5" font-weight="700" fill="#c9d1d9" text-anchor="end">308</text>
+<text x="25" y="112" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13.5" font-weight="400" fill="#8b949e" xml:space="preserve">  · gerados no Lovable sob meu comando</text>
+<text x="440" y="112" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13.5" font-weight="700" fill="#c9d1d9" text-anchor="end">197</text>
+<text x="25" y="134" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13.5" font-weight="600" fill="#c9d1d9" xml:space="preserve">Repositórios com código meu</text>
+<text x="440" y="134" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13.5" font-weight="700" fill="#c9d1d9" text-anchor="end">19</text>
+<text x="25" y="156" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13.5" font-weight="600" fill="#c9d1d9" xml:space="preserve">Pull requests</text>
+<text x="440" y="156" font-family='Segoe UI, Ubuntu, sans-serif' font-size="13.5" font-weight="700" fill="#c9d1d9" text-anchor="end">3</text>
+<text x="25" y="182" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" fill="#8b949e">Inclui repositórios privados · dados de 22/10/2026</text>
+</svg>

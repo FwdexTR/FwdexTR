@@ -120,8 +120,8 @@
 ### 📊 Estatísticas no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=FwdexTR&show_icons=true&include_all_commits=true&rank_icon=github&theme=github_dark&hide_border=true&border_radius=10" alt="Estatísticas gerais">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FwdexTR&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=10" alt="Linguagens mais usadas">
+  <img height="170" src="assets/stats.svg" alt="Estatísticas gerais, incluindo repositórios privados">
+  <img height="170" src="assets/langs.svg" alt="Linguagens mais usadas, incluindo repositórios privados">
 </p>
 
 ---

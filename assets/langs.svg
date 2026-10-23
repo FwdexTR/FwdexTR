@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195">
+<rect x="0.5" y="0.5" rx="10" width="99%" height="99%" fill="#0d1117"/>
+<text x="25" y="35" font-family='Segoe UI, Ubuntu, sans-serif' font-size="18" font-weight="600" fill="#58a6ff">Linguagens mais usadas</text>
+<clipPath id="c"><rect x="25" y="52" width="417" height="8" rx="4"/></clipPath>
+<g clip-path="url(#c)"><rect x="25" y="52" width="328.57671564145267" height="8" fill="#3178c6"/><rect x="353.57671564145267" y="52" width="32.4918433314146" height="8" fill="#336790"/><rect x="386.06855897286727" y="52" width="21.359589726218218" height="8" fill="#3572A5"/><rect x="407.42814869908545" y="52" width="19.92985080916198" height="8" fill="#f1e05a"/><rect x="427.3579995082474" y="52" width="10.97092318964914" height="8" fill="#663399"/><rect x="438.32892269789653" y="52" width="3.147961865861207" height="8" fill="#e34c26"/><rect x="441.4768845637577" y="52" width="0.3530275712785443" height="8" fill="#89e051"/><rect x="441.82991213503624" y="52" width="0.08609596374286664" height="8" fill="#384d54"/></g>
+<circle cx="30" cy="81" r="5" fill="#3178c6"/><text x="41" y="85" font-family='Segoe UI, Ubuntu, sans-serif' font-size="12" fill="#c9d1d9">TypeScript 78.80%</text>
+<circle cx="240" cy="81" r="5" fill="#336790"/><text x="251" y="85" font-family='Segoe UI, Ubuntu, sans-serif' font-size="12" fill="#c9d1d9">PL/pgSQL 7.79%</text>
+<circle cx="30" cy="103" r="5" fill="#3572A5"/><text x="41" y="107" font-family='Segoe UI, Ubuntu, sans-serif' font-size="12" fill="#c9d1d9">Python 5.12%</text>
+<circle cx="240" cy="103" r="5" fill="#f1e05a"/><text x="251" y="107" font-family='Segoe UI, Ubuntu, sans-serif' font-size="12" fill="#c9d1d9">JavaScript 4.78%</text>
+<circle cx="30" cy="125" r="5" fill="#663399"/><text x="41" y="129" font-family='Segoe UI, Ubuntu, sans-serif' font-size="12" fill="#c9d1d9">CSS 2.63%</text>
+<circle cx="240" cy="125" r="5" fill="#e34c26"/><text x="251" y="129" font-family='Segoe UI, Ubuntu, sans-serif' font-size="12" fill="#c9d1d9">HTML 0.75%</text>
+<circle cx="30" cy="147" r="5" fill="#89e051"/><text x="41" y="151" font-family='Segoe UI, Ubuntu, sans-serif' font-size="12" fill="#c9d1d9">Shell 0.08%</text>
+<circle cx="240" cy="147" r="5" fill="#384d54"/><text x="251" y="151" font-family='Segoe UI, Ubuntu, sans-serif' font-size="12" fill="#c9d1d9">Dockerfile 0.02%</text>
+<text x="25" y="182" font-family='Segoe UI, Ubuntu, sans-serif' font-size="10" fill="#8b949e">Inclui repositórios privados · dados de 22/10/2026</text>
+</svg>
