@@ -124,6 +124,10 @@
   <img height="170" src="assets/langs.svg" alt="Linguagens mais usadas, incluindo repositórios privados">
 </p>
 
+<p align="center">
+  <strong>Também programo em:</strong> C# · Java
+</p>
+
 ---
 
 <p align="center">
