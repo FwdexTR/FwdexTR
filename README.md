@@ -124,10 +124,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FwdexTR&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=10" alt="Linguagens mais usadas">
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FwdexTR&theme=github-dark-blue&hide_border=true&border_radius=10" alt="Sequência de contribuições">
-</p>
-
 ---
 
 <p align="center">
