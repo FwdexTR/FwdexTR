@@ -110,7 +110,7 @@
 | Projeto | O que é | Stack |
 |---|---|---|
 | [**Novera**](https://aplasscontrole.vercel.app) | SaaS de gestão de obras em produção: estoque em vários almoxarifados, compras, equipe e leitura de nota fiscal com IA | Next.js · PostgreSQL · Gemini |
-| **ProspectAI** | Motor que encontra empresas locais, audita o site de cada uma e dá uma nota; analisou mais de 21 mil negócios | Python · FastAPI · DuckDB · Next.js |
+| [**ProspectAI**](https://github.com/FwdexTR/prospectai) | Motor que encontra empresas locais, audita o site de cada uma e dá uma nota; analisou mais de 21 mil negócios | Python · FastAPI · DuckDB · Next.js |
 | **Gestão com IA para hotelaria** | Prevê ocupação, ajusta preço da diária, atende hóspedes e organiza a escala de 4 prédios | Python · n8n · WhatsApp |
 | **E-commerce de peças de moto** | Loja com API própria, painel admin, cupons e frete por CEP | React · Vite · Node.js · SQLite |
 | **Copiloto de entrevista** *(em construção)* | Extensão do Chrome que lê as legendas do Google Meet e sugere respostas | JavaScript · Claude API |
